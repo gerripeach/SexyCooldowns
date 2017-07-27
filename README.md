@@ -1,1 +1,5 @@
-# SexyCooldowns
+Mange:
+	- Fix caching of spell book. Some items does not provide links anymore (Attack and more).
+durcyn:
+	- 4.0 compat: GetSpellName -> GetSpellBookItemName
+	- new 4.0 spell IDs
